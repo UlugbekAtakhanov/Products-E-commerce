@@ -1,0 +1,56 @@
+[
+    {
+        "id": 1,
+        "name": "iPhone 13",
+        "price": 799,
+        "image": "https://brostore.uz/cdn/shop/files/1_95f8a17b-629e-4813-8ca2-cac09460b604.png?v=1698323297"
+    },
+    {
+        "id": 2,
+        "name": "Samsung Galaxy S22",
+        "price": 749,
+        "image": "https://oasis.opstatics.com/content/dam/oasis/page/2023/na/oneplus-11/specs/green-img.png"
+    },
+    {
+        "id": 3,
+        "name": "Google Pixel 6",
+        "price": 599,
+        "image": "https://brostore.uz/cdn/shop/files/1_95f8a17b-629e-4813-8ca2-cac09460b604.png?v=1698323297"
+    },
+    {
+        "id": 4,
+        "name": "OnePlus 11",
+        "price": 699,
+        "image": "https://oasis.opstatics.com/content/dam/oasis/page/2023/na/oneplus-11/specs/green-img.png"
+    },
+    {
+        "id": 5,
+        "name": "Xiaomi 13 Pro",
+        "price": 899,
+        "image": "https://brostore.uz/cdn/shop/files/1_95f8a17b-629e-4813-8ca2-cac09460b604.png?v=1698323297"
+    },
+    {
+        "id": 6,
+        "name": "Sony Xperia 1 IV",
+        "price": 999,
+        "image": "https://oasis.opstatics.com/content/dam/oasis/page/2023/na/oneplus-11/specs/green-img.png"
+    },
+    {
+        "id": 7,
+        "name": "Motorola Edge+ (2023)",
+        "price": 799,
+        "image": "https://brostore.uz/cdn/shop/files/1_95f8a17b-629e-4813-8ca2-cac09460b604.png?v=1698323297"
+    },
+    {
+        "id": 8,
+        "name": "Asus ROG Phone 7",
+        "price": 999,
+        "image": "https://oasis.opstatics.com/content/dam/oasis/page/2023/na/oneplus-11/specs/green-img.png"
+    },
+    {
+        "id": 9,
+        "name": "Nothing Phone (2)",
+        "price": 699,
+        "image": "https://brostore.uz/cdn/shop/files/1_95f8a17b-629e-4813-8ca2-cac09460b604.png?v=1698323297"
+    }
+]

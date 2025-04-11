@@ -6,7 +6,7 @@ import ProductItem from "./product-item";
 
 const ProductsList = async ({ viewTerm }: { viewTerm: string }) => {
     const products = await getProducts();
-
+    if (!products) return null;
     const slicedProducts = products.slice(0, viewTerm === "all" ? products.length : 3);
 
     return (
